@@ -1,0 +1,36 @@
+body {
+  Background-image:
+    url("https://i.ibb.co/DYs0qjt/Screenshot-2023-06-09-at-8-23-37.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img {
+  float: right;
+  width: 630px;
+}
+p{
+  background-color:#CDAD7D;
+  width: 50%;
+  height:14vh;
+  margin-left: 40%;
+  margin-top:-1%;
+  font-size: 34px;
+  vertical-align: middle;
+  display: table-cell;
+    border-radius: 5%;
+  text-align:center;
+ }
+.moveup{
+  margin-bottom: 30%;
+  
+}
+.order{
+  background-color: #CDAD7D;
+  height:50px;
+  width: 30%;
+    margin-left: 25%;
+  text-decoration:none;
+  border: no-border;
+  font-size:200%;
+  color: black;
+  }
