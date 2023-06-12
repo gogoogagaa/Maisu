@@ -8,7 +8,7 @@ nav {
 display: flex;
 flex-wrap: wrap;
 align-items: center;
-  background-color: white;
+background-color: white;
 justify-content: space-between;
 overflow: auto;
 padding: 1px 5px;
