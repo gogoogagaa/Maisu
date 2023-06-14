@@ -4,14 +4,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
-nav {
-display: flex;
-flex-wrap: wrap;
-align-items: center;
-background-color: white;
-justify-content: space-between;
-overflow: auto;
-padding: 1px 5px;
 div {
   background-color: #CDAD7D;
   height: 50vh;
@@ -19,6 +11,7 @@ div {
   margin-top: 10%;
     margin-left: 7%;
   font-size: 150%; 
+  border-radius:5%;
 }
 .number{
   float: right;
@@ -69,3 +62,5 @@ button{
   height: 100%;
   object-fit: cover;
 }
+
+  
