@@ -42,25 +42,3 @@ p {
   font-size: 18px;
   margin: 30px;
 }
-.learn{
-  background-color: white;
-  display: block;
-  width: 6em;
-  height: 1em;
-  text-decoration: none;
-  margin-bottom: .0em;
-  align-items: center;
-  font-size: 20px;
-}
-.learn:hover { 
-  background-color:lightgreen;
-  margin: 30px;
-}
-.dropbtn {
-  background-color: lime;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: green;
-  cursor: pointer;
-}
