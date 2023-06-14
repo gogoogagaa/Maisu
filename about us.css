@@ -1,0 +1,55 @@
+body{
+  background-image: url("https://i.postimg.cc/wBqJnxpp/bottled-water-small-jpg.webp");
+  background-repeat: no repeat;
+  background-size: cover;
+  }
+h1{
+  margin: 0px;
+  font-size: 300%;
+  text-align: center;
+  color: white;
+}
+li a {
+  background-color:blue;
+  display: block;
+  width: 5em;
+  height: 2em;
+  text-decoration: none;
+  margin-bottom: .0em;
+  font-size:20px;
+  text-align: center;
+}
+li a:hover{
+  background-color:red;
+}
+p {
+  text-align: center;
+  font-family: times new roman;
+  color: yellow;
+}
+nav {
+  			display: flex;
+  			flex-wrap: wrap;
+  			align-items: center;
+  			justify-content: space-between;
+  			overflow: auto;
+  background-color: lightblue;
+  width: 90em;
+  height: 4em;
+}
+ul li {
+  			position: relative;
+  			margin: 1px 12px;
+  			list-style: none;
+  			display: inline-block;
+  			padding: 2px;
+  			font-size:20px;
+  			font-family: arial;
+  background-color: lightblue;
+}
+ul li a{
+text-decoration: none; 
+cursor: pointer;
+color: black;
+background-color: lightblue;
+}
