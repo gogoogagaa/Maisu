@@ -62,5 +62,39 @@ button{
   height: 100%;
   object-fit: cover;
 }
+.img2{
+  
+}
+
+ul li {
+  			position: relative;
+  			margin: 1px 15px;
+  			list-style: none;
+  			display: inline-block;
+  			padding: 2px;
+  			font-size:20px;
+  			font-family: arial;
+}
+ul li a{
+text-decoration: none; 
+cursor: pointer;
+color: blue;
+}
+  
+ul li a:hover {
+  background-color: rgb(129, 123, 123);
+}
+nav {
+  			display: flex;
+  			flex-wrap: wrap;
+  			align-items: center;
+  			background-color: white;
+  			justify-content: space-between;
+  			overflow: auto;
+        padding: 1px 5px;
+}
+ul li a.active {
+  border-bottom:5px solid red;
+}
 
   
