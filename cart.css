@@ -3,6 +3,7 @@ body {
     url("https://i.ibb.co/PQ4szv4/Screenshot-2023-06-09-at-8-21-26.png");
   background-repeat: no-repeat;
   background-size: cover;
+  overflow-x:hidden;
 }
 div {
   background-color: #CDAD7D;
